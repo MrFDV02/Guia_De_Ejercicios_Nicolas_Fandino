@@ -14,3 +14,5 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 - [Ejercicio de Natación](ejercicios/natacion.md): Trabaja todos los grupos musculares de manera suave.
 - [Ejercicio de Boxeo](ejercicios/boxeo.md): Mejora la coordinación y la resistencia.
 - [Ejercicio de CrossFit](ejercicios/crossfit.md): Entrenamiento intensivo y funcional.
+
+¡Aprovecha estos ejercicios y mantente activo y saludable!
