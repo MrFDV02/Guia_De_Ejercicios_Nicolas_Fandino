@@ -8,3 +8,9 @@ El ciclismo es un ejercicio aeróbico de bajo impacto que se puede practicar en 
 - Bajo impacto en rodillas y tobillos
 - Mejora la resistencia cardiovascular
 - Reduce el estrés
+
+## Cómo realizarlo
+1. Ajusta el asiento a la altura de tu cadera.
+2. Pedalea a ritmo moderado los primeros 10 minutos.
+3. Alterna entre intervalos de esfuerzo y recuperación.
+4. Finaliza con 5 minutos de pedaleo suave.
