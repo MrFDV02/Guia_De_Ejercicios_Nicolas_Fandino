@@ -14,3 +14,8 @@ El entrenamiento funcional simula movimientos cotidianos para mejorar fuerza, eq
 2. Usa tu peso corporal o implementos ligeros.
 3. Realiza circuitos de 3-5 ejercicios seguidos.
 4. Descansa 1 minuto entre circuitos.
+
+## Consejos y precauciones
+- Domina la técnica antes de añadir carga.
+- Activa el core en cada ejercicio.
+- Adapta los movimientos a tu nivel de condición.
