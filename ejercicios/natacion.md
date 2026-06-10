@@ -14,3 +14,8 @@ La natación es un ejercicio completo que trabaja todo el cuerpo con mínimo imp
 2. Comienza con el estilo que domines mejor (crol, espalda, pecho).
 3. Nada series de 25-50 metros con descanso entre ellas.
 4. Finaliza con estiramientos de hombros y espalda.
+
+## Consejos y precauciones
+- Nunca nades solo en aguas abiertas.
+- Aprende la técnica correcta de respiración.
+- Usa gafas y gorro para mayor comodidad.
