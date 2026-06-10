@@ -14,3 +14,8 @@ El yoga combina posturas físicas, respiración controlada y meditación para eq
 2. Comienza con posturas básicas: perro boca abajo, guerrero, árbol.
 3. Sincroniza cada movimiento con la respiración.
 4. Finaliza con 5 minutos de meditación en shavasana.
+
+## Consejos y precauciones
+- Respeta los límites de tu cuerpo sin forzar posturas.
+- Practica con el estómago vacío o 2 horas después de comer.
+- La constancia diaria da mejores resultados que sesiones largas esporádicas.
