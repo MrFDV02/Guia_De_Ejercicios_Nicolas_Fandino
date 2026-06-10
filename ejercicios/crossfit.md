@@ -8,3 +8,9 @@ CrossFit es un programa de acondicionamiento físico de alta intensidad que comb
 - Mejora la capacidad cardiovascular
 - Fomenta la constancia gracias a la comunidad
 - Resultados visibles en poco tiempo
+
+## Cómo realizarlo
+1. Inicia con un WOD (workout of the day) de nivel principiante.
+2. Calienta con movilidad dinámica y activación muscular.
+3. Ejecuta los movimientos con la técnica correcta antes de añadir velocidad.
+4. Registra tus tiempos y cargas para medir el progreso.
