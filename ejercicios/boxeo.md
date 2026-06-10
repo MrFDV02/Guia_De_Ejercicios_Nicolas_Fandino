@@ -8,3 +8,9 @@ El boxeo fitness combina técnicas de golpeo con cardio de alta intensidad para 
 - Quema gran cantidad de calorías
 - Fortalece brazos, hombros y core
 - Libera tensión y estrés acumulado
+
+## Cómo realizarlo
+1. Venda las manos y usa guantes adecuados.
+2. Adopta una postura básica: pies separados, guardia alta.
+3. Practica combinaciones básicas: jab, cross, gancho.
+4. Alterna rounds de 2-3 minutos con 1 minuto de descanso.
