@@ -14,3 +14,8 @@ El Pilates es un método de acondicionamiento físico que fortalece el core y me
 2. Comienza con ejercicios de activación del core: hundred, roll-up.
 3. Realiza los movimientos de forma lenta y controlada.
 4. Respira en cada fase del movimiento.
+
+## Consejos y precauciones
+- La calidad del movimiento importa más que la cantidad.
+- Evita arquear la espalda baja en los ejercicios abdominales.
+- Si tienes lesiones, consulta un instructor certificado.
